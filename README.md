@@ -10,4 +10,8 @@ Hatırlatma! Botların komutlarında text olarak benzetmeler vardır sonra şurd
 
 botlara güncelleme geldikçe paylaşılacaktır.
 
+Botu Paylaşma İznim Var Aşağıda Ss i bırakacam 
+
 Ufak Görseller:
+
+![image](https://user-images.githubusercontent.com/121248383/221345515-a9402b3f-29bb-48f6-a57e-140766782a45.png)
